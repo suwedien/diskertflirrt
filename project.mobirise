@@ -73,7 +73,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/8-2000x1869.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/screenshot-7-2000x2552.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
