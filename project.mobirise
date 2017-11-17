@@ -65,7 +65,8 @@
             },
             ".btn": {
               "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "18px"
             }
           },
           "_anchor": "header1-5",
@@ -90,7 +91,7 @@
           },
           "title": "ÄR DU SINGEL",
           "text": "<b>100%&nbsp;</b>FRI<b><br></b>MÅSTE REGISTRERA MED ÅR ÄR ENLIGT 24 ÅR<br>",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"http://makemoneyonlines.trade/033eeaa3-ae5c-4c60-82b3-d83f01e6a2cf\" data-toolbar=\"-mbrBtnMove\">GÅ MED GRATIS<br></a> "
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"http://makemoneyonlines.trade/033eeaa3-ae5c-4c60-82b3-d83f01e6a2cf\" data-toolbar=\"-mbrBtnMove\">GÅ MED GRATIS<br></a> "
         }
       ]
     }
